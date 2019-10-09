@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="94" started-at="2019-09-22T16:46:50Z" finished-at="2019-09-22T16:46:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="94" started-at="2019-09-22T16:46:50Z" finished-at="2019-09-22T16:46:51Z">
+      <class name="PKG00.Class1">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:PKG00.Class1@1bce4f0a]" name="tc1" duration-ms="0" started-at="2019-09-22T22:16:51Z" finished-at="2019-09-22T22:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- PKG00.Class1 -->
+      <class name="PKG00.Class2">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:PKG00.Class2@5e3a8624]" name="tc2" duration-ms="16" started-at="2019-09-22T22:16:51Z" finished-at="2019-09-22T22:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- PKG00.Class2 -->
+      <class name="PKG00.Class3">
+        <test-method status="PASS" signature="tc3()[pri:0, instance:PKG00.Class3@5b275dab]" name="tc3" duration-ms="15" started-at="2019-09-22T22:16:50Z" finished-at="2019-09-22T22:16:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- PKG00.Class3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
